@@ -1,0 +1,45 @@
+img {
+    border-radius: 60%;
+    width: 42%; 
+}
+
+header {
+    /* border: 2px dotted red; */
+    padding: 50px 50px 10px 50px; 
+    display: inline-block;
+
+}
+
+h1 {
+    position: absolute;
+    font-family: "Verdana";
+    top: 12%;
+    right: 5%;
+}
+
+.container {
+    /* border: 1px solid #00000020; */
+    font-family: "Helvetica";
+    border-radius: 2%;
+    margin: 2% 0% 2% 0%;
+    /* border: 2%;  */
+    padding: 1code%; 
+    box-shadow: 2px 2px 4px 2px #00000020,
+                -2px -2px 4px -2px #ffffff;
+}
+
+.container2 {
+    border: 1px solid #00000020;
+    background: lightgray; 
+    font-family: "Helvetica";
+    border-radius: 2%;
+    margin: 2% 0% 2% 0%;
+    /* border: 2%;  */
+    padding: 2%; 
+    box-shadow: 2px 2px 4px 2px #00000020,
+                -2px -2px 4px -2px #ffffff;
+}
+
+.repoList {
+    margin: 2%;
+}
